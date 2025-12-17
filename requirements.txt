@@ -1,0 +1,16 @@
+omegaconf
+typer
+faiss-gpu
+scikit-learn
+loguru
+segmentation_models_pytorch
+omegaconf
+opencv-python-headless
+lightning==2.5.0
+torchmetrics==1.7.0
+pandas
+numpy
+scikit-learn
+tqdm
+albumentationsX
+tensorboard

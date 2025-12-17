@@ -1,0 +1,14 @@
+
+problem: sseg
+bias: 0.1
+hook_layer: encoder
+batch_size: 10
+epochs: 40
+workers: 3
+lr: 1e-4
+n_iter: 20 
+reset_model: True
+budget: 0.02
+subset: -1
+repetitions: 15
+cycles: 10
